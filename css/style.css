@@ -1,0 +1,94 @@
+.main-color{
+    color: #02897A;
+}
+.color-white{
+    color: white;
+}
+.price-color{
+    color: #AFAFAF;
+}
+.color-warning{
+    color: gold;
+}
+.first-button{
+    border: 1px solid black;
+   
+}
+body .container button{
+    background-color: #02897A;
+}
+.card-image{
+    width: 51px;
+    height: 50px;
+}
+.card{
+    border: 0px solid ;
+}
+.card .card-body p{
+    font-size: 16px;
+    
+}
+.main-image-correct{
+    width: 35px;
+    height: 35px;
+}
+.avators{
+    /* width: 98px;
+    height: 98px; */
+}
+.avator-text{
+    background: white;
+    border-radius: 35%;
+    padding: 3%;
+    
+}
+.font-size-wahid{
+    font-size: 16px;
+}
+.font-size-positive{
+    font-size: 24px;
+}
+.font-size-positive:hover{
+    color:#02897A ;
+}
+.wahid-card{
+    border: 0px solid  #E5E5E5;
+}
+.wahid-card-withb{
+    border: 1px solid  #E5E5E5;
+}
+.price-tag{
+    font-size: 76px;
+    color:#02897A ;
+
+}
+.price-tag:hover{
+    color: white;
+}
+.price-card{
+    border: 1px solid #E5E5E5 ;
+    border-radius: 5%;
+}
+.price-card:hover{
+ background:#02897A ;
+ color: white;
+}
+.price-card:hover p:hover{
+    color: white;
+}
+.price-amount{
+    color:#02897A  ;
+}
+.price-amount:hover{
+    color: white;
+}
+.button-price:hover{
+
+background: white;
+}
+.button-order:hover{
+    color: #02897A;
+}
+.product-foot-button{
+    background: white;
+}
